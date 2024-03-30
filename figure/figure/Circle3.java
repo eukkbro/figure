@@ -11,7 +11,6 @@ public class Circle3 {
 		Scanner scan = new Scanner(System.in);
 		int radius = scan.nextInt();
 		
-		
 		for(int x=-radius; x<=radius; x++) {
 			
 			for (int y=-radius; y<=radius; y++) {
