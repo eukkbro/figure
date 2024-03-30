@@ -15,6 +15,7 @@ public class Circle {
 		
 for(int i=1; i<=size; i++) {
 			
+
 			for(int j=1; j<=size; j++) {
 				System.out.print(1);
 				System.out.print(wr);
