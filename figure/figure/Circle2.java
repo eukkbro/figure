@@ -14,7 +14,6 @@ public class Circle2 {
 		int size = 2*scan.nextInt();
 		
 		
-		
 		for(int i =size/2+1; i<=size; i++) {
 				
 			
